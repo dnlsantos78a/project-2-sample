@@ -62,7 +62,7 @@ Based on these cash flow patterns, the following actions are recommended for **L
 ---
 
 ## 🚀 Interactive Analysis
-If the Python notebook does not render directly on GitHub, you can view the full code, data transformations, and visualizations here:
+The full code can be viewd here. Also the data transformations, and visualizations here:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dnlsantos78a/project-2-sample/blob/main/Project_1.ipynb)
 
