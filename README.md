@@ -1,4 +1,4 @@
-# Cash Flow Dynamics & Liquidity Analytics (2025)
+# Cash Flow Dynamics & Liquidity Analytics (2026)
 
 ## 📖 Project Background
 
